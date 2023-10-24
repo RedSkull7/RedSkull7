@@ -5,8 +5,6 @@ Eu sou o Icaro Natã Fadel.
 - 🔭 Atualmente estou trabalhando em uma empresa de transporte de grande porte em Guarulhos-SP. 
 - 🌱 Estou estudando Profissão: Desenvolvedor Full Stack Java na EBAC (Escola Britânica de Artes Criativas e Tecnologia).
 - ⚡ Curiosidade: Estou buscando oportunidades para migrar da área de seguros para a área de programação.
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
 
 ## Principais Ferramentas e Tecnologias
   <div>
